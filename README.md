@@ -10,3 +10,6 @@ Multi-head Architecture: The model employs four distinct heads to process:
 - Global features of compounds.
 - Local features of proteins.
 - Global features of proteins.
+
+
+This project is licensed under the GNU Affero General Public License v3.0. See the LICENSE file for details.
